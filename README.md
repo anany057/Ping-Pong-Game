@@ -17,3 +17,12 @@ Event handling: The game responds to user input by using event handlers. For exa
 
 Animation: The game uses animation to move the ball and the paddles.
 To play the game, simply open the index.html file in a web browser. You can also view the source code of the game by opening the index.html file in a text editor.
+
+
+![image](https://github.com/anany057/Ping-Pong-Game/assets/112336313/90634584-a35c-4786-ad5d-2df2612f7be6)
+
+
+![image](https://github.com/anany057/Ping-Pong-Game/assets/112336313/43fba352-b3d9-4bc1-ab06-90a94021ae20)
+
+![image](https://github.com/anany057/Ping-Pong-Game/assets/112336313/17767d76-898e-4b92-b508-7db7f8a239c9)
+
